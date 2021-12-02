@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+#output-table{
+    margin-left: 300px;
+}
+
+#centerHeader {
+    text-align: center;
+}
+#main-conteiner{
+    text-align: center;
+    margin:30px;
+    padding: 10px;
+    height: 250px;
+    background-color: rgb(235, 225, 213);
+}
+#books-conteiner{
+    text-align: center;
+}
+
